@@ -1,0 +1,25 @@
+header{
+    background-color: white;
+    text-align: center;
+
+}
+
+body{
+    background-color: grey;
+    margin:0;
+}
+
+div.post{
+    background-color: white;
+
+
+}
+
+div.post img{
+   width: 100%;
+}
+
+div.container {
+    width: 600px;
+    margin:auto;
+}
